@@ -1,0 +1,6 @@
+Type hints in python
+
+def add(x: int, y:int) -> int:
+    return x + y
+
+What this ^ does is makes sure to check the data type before runtime.

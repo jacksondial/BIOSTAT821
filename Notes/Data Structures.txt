@@ -1,0 +1,14 @@
+Data Structures
+
+Static arrays
+Dynamic arrays
+Linked lists
+
+More:
+Sets
+Dicts
+
+
+Look up what hash functions are and what collisions are
+
+
